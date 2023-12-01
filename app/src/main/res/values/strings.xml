@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">halloween_event</string>
+
+
+    <string name="halloween_title">Halloween Discount Event</string>
+    <string name="halloween_subtext">Open the boxes and find amazing prizes!</string>
+</resources>
